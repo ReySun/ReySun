@@ -33,7 +33,7 @@ My Core Stack Preferences
 [![tsup](https://img.shields.io/badge/tsup-333333?style=flat&logo=typescript&logoColor=white)](https://github.com/egoist/tsup)
 [![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=white)](https://github.com/rollup/rollup)
 [![tsdown](https://img.shields.io/badge/tsdown-333333?style=flat&logo=typescript&logoColor=white)](https://github.com/rolldown/tsdown)
-[![Rolldown](https://img.shields.io/badge/Rolldown-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMjAiIGZvbnQtc2l6ZT0iMjAiIGZpbGw9IndoaXRlIj7wn5SqPC90ZXh0Pjwvc3ZnPg==)](https://github.com/rolldown/rolldown)
+[![Rolldown](https://img.shields.io/badge/Rolldown-333333?style=flat&logo=rolldown)](https://github.com/rolldown/rolldown)
 [![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=flat&logo=esbuild&logoColor=black)](https://github.com/evanw/esbuild)
 
 - Config: 
